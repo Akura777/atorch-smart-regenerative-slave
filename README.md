@@ -1,14 +1,20 @@
 # atorch-smart-regenerative-slave
-https://github.com/Akura777/atorch-smart-regenerative-slave/discussions/1
-Custom hybrid energy recovery / regenerative slave module and 3D printed SFF enclosure for ATORCH BW600 electronic loads.
-Atorch Smart Regenerative Slave Module (DIY)
+
+👉 **[Ask questions or share your build in the Discussions tab!](https://github.com/Akura777/atorch-smart-regenerative-slave/discussions/1)**
+
+## Custom hybrid energy recovery / regenerative slave module
+
+Custom hybrid energy recovery / regenerative slave module and 3D printed SFF enclosure for ATORCH BW600 electronic loads. 
+
+**Atorch Smart Regenerative Slave Module (DIY)**
 A high-efficiency custom Smart Regenerative Slave Module and deep power stage upgrade for electronic loads with expansion support (Atorch BW600 series and equivalents).
 
 Instead of wasting energy from tested power sources as heat, this module intercepts control signals and reroutes power to a DC-DC converter to return energy back into a buffer battery or a portable power station, while completely maintaining the master unit's linear load capabilities up to 500W+.
 
-🌟 Key Features
-Smart Slave Architecture: A custom regenerative sub-module that integrates via the native Atorch multi-module expansion protocol using the CV analog control line.
-Power Switch Integration: The LM393 comparator reads the external analog CV signal from the Atorch master and functions as a high-efficiency electronic switch (Power Gate / Switch) on the low-side ground break.
+## 🌟 Key Features
+
+* **Smart Slave Architecture:** A custom regenerative sub-module that integrates via the native Atorch multi-module expansion protocol using the CV analog control line.
+* **Power Switch Integration:** The LM393 comparator reads the external analog CV signal from the Atorch master and functions as a high-efficiency electronic switch.
 Deep Power Stage Upgrade: Stock MOSFETs are replaced with genuine brand-name keys, shifting to heavy-duty PC cooling hardware (low-profile CPU heatsinks with copper heatpipes).
 Versatility & Cost-Efficiency: The circuit operates completely independently of the internal DC-DC converter protections and buffer chemistry. You can customize the build using any available parts.
 📊 Operating Principle & Topology
