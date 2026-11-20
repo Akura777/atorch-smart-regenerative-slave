@@ -1,4 +1,5 @@
 # atorch-smart-regenerative-slave
+https://github.com/Akura777/atorch-smart-regenerative-slave/discussions/1
 Custom hybrid energy recovery / regenerative slave module and 3D printed SFF enclosure for ATORCH BW600 electronic loads.
 Atorch Smart Regenerative Slave Module (DIY)
 A high-efficiency custom Smart Regenerative Slave Module and deep power stage upgrade for electronic loads with expansion support (Atorch BW600 series and equivalents).
